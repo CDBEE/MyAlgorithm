@@ -12,3 +12,5 @@
 |[소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|[java](PGMS/LEVEL2/소수찾기.md)
 |[더맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|[java](PGMS/LEVEL2/더맵게.md)
 |[카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)|[java](PGMS/LEVEL2/카카오프렌즈컬러링북.md)
+|[전력망을둘로나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)|[java](PGMS/LEVEL2/전력망을둘로나누기.md)
+|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|[java](PGMS/LEVEL2/전화번호목록.md)
