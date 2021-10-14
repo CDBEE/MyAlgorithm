@@ -21,3 +21,5 @@
 |[네트워크](https://programmers.co.kr/learn/courses/30/lessons/12946)|[java](PGMS/LEVEL3/네트워크.md)
 |[다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486)|[java](PGMS/LEVEL3/다단계칫솔판매.md)
 |[순위](https://programmers.co.kr/learn/courses/30/lessons/49191)|[java](PGMS/LEVEL3/순위.md)
+|[셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)|[java](PGMS/LEVEL3/셔틀버스.md)
+|[불량사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)|[java](PGMS/LEVEL3/불량사용자.md)
