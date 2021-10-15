@@ -23,3 +23,4 @@
 |[순위](https://programmers.co.kr/learn/courses/30/lessons/49191)|[java](PGMS/LEVEL3/순위.md)
 |[셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)|[java](PGMS/LEVEL3/셔틀버스.md)
 |[불량사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)|[java](PGMS/LEVEL3/불량사용자.md)
+|[가장먼노드](https://programmers.co.kr/learn/courses/30/lessons/49189)|[java](PGSM/LEVEL3/가장먼노드.md)
