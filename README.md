@@ -15,6 +15,10 @@
 |[카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)|[java](PGMS/LEVEL2/카카오프렌즈컬러링북.md)
 |[전력망을둘로나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)|[java](PGMS/LEVEL2/전력망을둘로나누기.md)
 |[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|[java](PGMS/LEVEL2/전화번호목록.md)
+|[순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|[java](PGMS/LEVEL2/순위검색.md)
+|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|[java](PGMS/LEVEL2/튜플.md)
+|[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|[java](PGMS/LEVEL2/행렬테두리회전하기.md)
+|[게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)|[java](PGMS/LEVEL2/게임맵최단거리.md)
 |LEVEL3||
 |[단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|[java](PGMS/LEVEL3/단어변환.md)
 |[하노이의탑](https://programmers.co.kr/learn/courses/30/lessons/12946)|[java](PGMS/LEVEL3/하노이의탑.md)
