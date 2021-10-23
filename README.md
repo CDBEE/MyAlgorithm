@@ -21,6 +21,7 @@
 |[게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)|[java](PGMS/LEVEL2/게임맵최단거리.md)|
 |[단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)|[java](PGMS/LEVEL2/단체사진찍기.md)|
 |[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[java](PGMS/LEVEL2/괄호변환.md)|
+|[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|[java](PGMS/LEVEL2/조이스틱.md)|
 |LEVEL3||
 |[단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|[java](PGMS/LEVEL3/단어변환.md)|
 |[하노이의탑](https://programmers.co.kr/learn/courses/30/lessons/12946)|[java](PGMS/LEVEL3/하노이의탑.md)|
@@ -32,4 +33,5 @@
 |[가장먼노드](https://programmers.co.kr/learn/courses/30/lessons/49189)|[java](PGMS/LEVEL3/가장먼노드.md)|
 |[표편집](https://programmers.co.kr/learn/courses/30/lessons/81303)|[java](PGMS/LEVEL3/표편집.md)
 |[GPS](https://programmers.co.kr/learn/courses/30/lessons/1837)|[java](PGMS/LEVEL3/GPS.md)|
-
+|[자물쇠와열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|[java](PGMS/LEVEL3/자물쇠와열쇠.md)|
+|[보석쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)|[java](PGMS/LEVEL3/보석쇼핑.md)|
