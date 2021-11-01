@@ -26,6 +26,8 @@
 |[던전피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)|[java](PGMS/LEVEL2/피로도.md)|
 |[배달](https://programmers.co.kr/learn/courses/30/lessons/12978)|[java](PGMS/LEVEL2/배달.md)|
 |[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)|[java](PGMS/LEVEL2/괄호회전하기.md)|
+|[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)|[java](PGMS/LEVEL2/구명보트.md)|
+|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[java](PGMS/LEVEL2/큰수만들기.md)|
 |LEVEL3||
 |[단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|[java](PGMS/LEVEL3/단어변환.md)|
 |[하노이의탑](https://programmers.co.kr/learn/courses/30/lessons/12946)|[java](PGMS/LEVEL3/하노이의탑.md)|
