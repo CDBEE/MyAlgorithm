@@ -29,6 +29,7 @@
 |[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)|[java](PGMS/LEVEL2/구명보트.md)|
 |[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[java](PGMS/LEVEL2/큰수만들기.md)|
 |[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|[java](PGMS/LEVEL2/오픈채팅방.md)|
+|[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)]|[java](PGMS/LEVEL2/영어끝말잇기.md)|
 |LEVEL3||
 |[단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|[java](PGMS/LEVEL3/단어변환.md)|
 |[하노이의탑](https://programmers.co.kr/learn/courses/30/lessons/12946)|[java](PGMS/LEVEL3/하노이의탑.md)|
