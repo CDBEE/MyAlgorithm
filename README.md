@@ -11,6 +11,8 @@
 |LEVE1||
 |[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[java](PGMS/LEVEL1/폰켓몬.md)|
 |[숫자문자열과영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|[java](PGMS/LEVEL1/숫자문자열과영단어.md)|
+|[삼진법뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|[]()
+|[약수의개수와덧셈](https://programmers.co.kr/learn/courses/30/lessons/778840)|[]()
 |||
 |LEVE2||
 |[빛의경로사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)|[java](PGMS/LEVEL2/빛의경로.md)|
